@@ -31,6 +31,8 @@ github: https://github.com/Abyss-Seeker
 
 All pretrained models list: https://huggingface.co/spaces/zomehwh/vits-models/blob/main/pretrained_models/info.json
 
+**Colab link: https://colab.research.google.com/drive/1y8NHYiItax3yvKLy6BbcLwGP4Kjq_FZU?usp=sharing**
+
 ****
 ## Good luck, have fun!
 
