@@ -11,6 +11,7 @@ Original Project: https://huggingface.co/spaces/zomehwh/vits-models
 ****
 
 >本colab文件基于 huggingface上的zomehwh/vits-models修改。原作者给出了colab，这里只是改进了一下colab文件，使其连到google drive上。
+>有了colab就不用电脑配置要求了。耶( •̀ ω •́ )y
 
 ****
 
