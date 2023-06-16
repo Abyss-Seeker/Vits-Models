@@ -32,5 +32,6 @@ github: https://github.com/Abyss-Seeker
 All pretrained models list: https://huggingface.co/spaces/zomehwh/vits-models/blob/main/pretrained_models/info.json
 
 ****
-##Good luck, have fun!
+## Good luck, have fun!
+
 ![:>](https://github.com/Abyss-Seeker/Random-Resources/blob/main/%E3%81%88%E3%81%BC%E3%81%97_%E3%83%95%E3%82%A1%E3%83%97%E3%82%BF%E5%A7%AB_107376242_p0.gif?raw=true "Faputa gif by pixiv artist えぼし, artwork ID 107376242")
