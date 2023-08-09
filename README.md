@@ -1,5 +1,7 @@
 # Vits-model
 
+# 现在没法用，还没修好
+
 **Colab link: https://colab.research.google.com/drive/1y8NHYiItax3yvKLy6BbcLwGP4Kjq_FZU?usp=sharing**
 
 ### Credits: 
